@@ -32,16 +32,16 @@ h1{
     width: 48%;
     font-size: x-large;
     vertical-align: middle;
-    margin-top: 35px;
+    
 }
 .submit{
     border-radius: 10px;
-    margin-top: 35px;
+    margin-top: 50px;
     color: white;
     height: 40px;
     border: 0px solid;
     font-size: 1em;
     background-color: teal;
-    margin-bottom: 35px;
+    margin-bottom: 50px;
     
 }
